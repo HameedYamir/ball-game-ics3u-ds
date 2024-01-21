@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/super/Downloads/ShomaliD_PASS3/ShomaliD_PASS3/ShomaliD_PASS3/ShomaliD_PASS3/GameStateDemo/GameStateDemo/Content/Audio/Sounds/BallHitSound.wav</SourceFile>
+  <SourceTime>2024-01-20T16:53:20.0219728-05:00</SourceTime>
+  <DestFile>C:/Users/super/Downloads/ShomaliD_PASS3/ShomaliD_PASS3/ShomaliD_PASS3/ShomaliD_PASS3/GameStateDemo/GameStateDemo/Content/bin/DesktopGL/Audio/Sounds/BallHitSound.xnb</DestFile>
+  <DestTime>2024-01-20T16:57:28.512381-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-01-13T15:35:17.2848403-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-01-13T15:35:17.2848403-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
